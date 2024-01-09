@@ -28,3 +28,4 @@ Visual components and Python
 ![image](https://github.com/sowmii76/Open-Jacson-Networks/assets/146059163/105a5ff9-6a84-41c1-963a-57a9575084f2)
 
 ## Result
+![image](https://github.com/sowmii76/Open-Jacson-Networks/assets/146059163/381dcc2a-22c4-4cb8-91cf-5512ed040102)
