@@ -25,5 +25,6 @@ Visual components and Python
 
 ## Output
 
+![image](https://github.com/sowmii76/Open-Jacson-Networks/assets/146059163/105a5ff9-6a84-41c1-963a-57a9575084f2)
 
 ## Result
